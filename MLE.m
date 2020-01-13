@@ -49,7 +49,7 @@ dataClass = D(:,1);
 dataPatterns = D(:,[2:end]);
 dataRowCount = size(dataPatterns, 1);
 
-%% MLE
+% MLE
 testClass = T(:,1);
 testPatterns = T(:,[2:end]);
 testRowCount = size(testPatterns, 1);
