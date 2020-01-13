@@ -1,6 +1,6 @@
 # Maximum Likelihood Estimation with Principal Component Analysis on Multivariate Dataset
 
-Firstly, 𝐷𝑐 and 𝑇𝑐 sets were created by splitting each class of the given Dataset8Class dataset to 75% and 25% and then they were merged to 𝐷𝑖 & 𝑇𝑖, while 𝑐 = 1,2,3,…8. In this project, dimension of the dataset was reduced with PCA from 987x600 to 987x120. PCA applied separately on each feature type that consisting 1x100 independent feature vector.
+Firstly, 𝐷𝑐 and 𝑇𝑐 sets were created by splitting each class of the given **private** dataset to 75% and 25% and then they were merged to 𝐷𝑖 & 𝑇𝑖, while 𝑐 = 1,2,3,…8. In this project, dimension of the dataset was reduced with PCA,shape of the dataset was changed from (987,600) to (987,120). PCA applied separately on each feature type that consisting 1x100 independent feature vector.
 
 ## Procedure:
 
