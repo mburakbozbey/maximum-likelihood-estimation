@@ -36,3 +36,5 @@ Precision and recall results for 𝑇𝑖 set:
 <p align="center">
   <img src="https://i.ibb.co/bFzT9mZ/Screenshot-5.png">
 </p>
+
+Note: For overall comparison of algorithms on same **private dataset** please visit [Hierarchical Clustering with SVM](https://github.com/mburakbozbey/hierarchical-clustering-with-svm) repository.
